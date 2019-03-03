@@ -1,0 +1,10 @@
+Approach to Solve Business problem:
+
+The Approach,that we will be using to solve the Business problem (which is: To Identify the Best Place for Opening a new Shoppe-chain in the city of Toronto and NewYork) is as follows:
+
+We will be using the FourSquare Dataset for Toronto and NewYork(A Golden dataset for Geo-Spatial category)to first locate and identify what all the types of Shops are already available in these Cities (Toronto and NewYork).
+
+We would also be considering some of the basic and important Statistics of these shoppe to build our solution more practically Recommendable.
+
+We will be using the k-means Clustering to cluster the type of shoppe in the respective areas in a City.
+Based on the final Clusters, we would be able to get/suggest the Best possible Place to our client for opening/setting up a New Shop/Business.
